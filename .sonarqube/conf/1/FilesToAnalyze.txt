@@ -1,0 +1,16 @@
+﻿C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\ApiModel\ClassRoomApiModel.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\ApiModel\TeacherAndClassRoomApiModel.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\ApiModel\TeacherApiModel.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\Controllers\EmployeesController.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\Controllers\TeacherNClassRoomController.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\Controllers\WeatherForecastController.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\MappingConfigurations\AutoMapperProfile.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\Program.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\WeatherForecast.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\obj\Debug\net6.0\CrudWebApplication.GlobalUsings.g.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\obj\Debug\net6.0\CrudWebApplication.AssemblyInfo.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\obj\Debug\net6.0\CrudWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\appsettings.Development.json
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\appsettings.json
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\CrudWebApplication\Properties\launchSettings.json

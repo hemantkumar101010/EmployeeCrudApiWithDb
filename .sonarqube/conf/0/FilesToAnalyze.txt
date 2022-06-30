@@ -1,0 +1,11 @@
+﻿C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\EmployeeDbContext.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Entities\ClassRoom.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Entities\Employee.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Entities\Teacher.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629114937_initial-migration.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629114937_initial-migration.Designer.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629170945_update-migration.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629170945_update-migration.Designer.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629172245_updated-migration.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\20220629172245_updated-migration.Designer.cs
+C:\Users\iamte\Desktop\.NetTrainingAssignmentRepo\EmployeeCrudApiWithDb\EmployeesData\Migrations\EmployeeDbContextModelSnapshot.cs
